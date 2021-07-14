@@ -15,7 +15,9 @@ Anik Das<br />
 Department of Computer Science, St. Francis Xavier University, Antigonish, B2G2W5, NS, Canada<br />
 Department of Computer Science and Engineering, Bangladesh University, Dhaka, Bangladesh<br />
 Email: x2021gmg@stfx.ca
+[Website](https://sites.google.com/view/anik-das)
 
 Muhammad Ashad Kabir<br />
 School of Computing and Mathematics, Charles Sturt University, NSW 2795, Australia<br />
 Email: akabir@csu.edu.au
+[Website](https://researchoutput.csu.edu.au/en/persons/akabircsueduau)
