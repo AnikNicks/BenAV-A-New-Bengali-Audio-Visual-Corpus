@@ -3,6 +3,7 @@ Visual speech recognition (VSR) is a very challenging task. There are many appli
 
 
 This is a research-based work and the author details are listed below:<br />
+
 Ashish Pondit<br />
 Department of Computer Science and Engineering, Chittagong University of Engineering and Technology (CUET), Chattogram, Bangladesh<br />
 Email: u1604071@student.cuet.ac.bd
