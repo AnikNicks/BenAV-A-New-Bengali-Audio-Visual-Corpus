@@ -1,5 +1,7 @@
 # BenAV-A-New-Bengali-Audio-Visual-Corpus
-Visual speech recognition (VSR) is a very challenging task. There are many applications of automatic lip reading such as facilitating speech recognition when the acoustic data is noisy or missing, assisting hearing impaired people, etc. Modern VSR systems require a large amount of data to achieve good performance. Popular lip reading datasets are available only for English or other languages. Thus, we have introduced a large-scale Bengali audio-visual dataset named "BenAV". To the best of our knowledge, BenAV is the first large-scale dataset in the Bengali language. BenAV contains more than 100 speakers, 26300 data instances, with a total duration of more than 7 hours and a lexicon of 50 words. This is a research-based work; cite this paper as:
+Visual speech recognition (VSR) is a very challenging task. There are many applications of automatic lip reading such as facilitating speech recognition when the acoustic data is noisy or missing, assisting hearing impaired people, etc. Modern VSR systems require a large amount of data to achieve good performance. Popular lip reading datasets are available only for English or other languages. Thus, we have introduced a large-scale Bengali audio-visual dataset named "BenAV". To the best of our knowledge, BenAV is the first large-scale dataset in the Bengali language. BenAV contains more than 100 speakers, 26300 data instances, with a total duration of more than 7 hours and a lexicon of 50 words. 
+
+**This is a research-based work titled "BenAV: a Bengali Audio-Visual Corpus for Visual Speech Recognition" [(paper link)](https://link.springer.com/chapter/10.1007/978-3-030-92270-2_45) and cite this paper as:**
 
 ```
 @inproceedings{pondit2021benav,
@@ -12,7 +14,7 @@ Visual speech recognition (VSR) is a very challenging task. There are many appli
 }
 ```
 
-**Please contact the following authors if more information is required:**<br />
+Please contact the following authors if more information is required:
 
 Ashish Pondit<br />
 Department of Computer Science and Engineering, Chittagong University of Engineering and Technology (CUET), Chattogram, Bangladesh<br />
